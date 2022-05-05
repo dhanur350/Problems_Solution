@@ -7,7 +7,7 @@ public:
     vector<int> spiralOrder(vector<vector<int>> &matrix)
     {
         vector<int> ans;
-        int row = matrix.size();
+        int row = matrix.size(); // Count row index
         if (row == 0)
         {
             return ans;
