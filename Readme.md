@@ -1,5 +1,7 @@
 ## LeetCode , HackerRank and other coding porblems solutions practice repository
 
+- Just a reminder that all headerfiles are included automatically by these all coding problems websites.
+
 ## Notes
 
 - The statement: `scanf("%[^\n]%*c", s);` will not work because the last statement will read a newline character, \n, from the previous line. This can be handled in a variety of ways.
